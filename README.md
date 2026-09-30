@@ -72,7 +72,7 @@ curl -sSL https://raw.githubusercontent.com/justmysocks-guide/jms-speedtest/main
 
 ## 🔗 相关生态资源
 
-- 📖 **[Just My Socks 官方全场景指南与全平台客户端配置教程](https://github.com/justmysocks-guide)**
+- 📖 **[Just My Socks 官方全场景指南与全平台客户端配置教程](https://github.com/justmysocks-guide/justmysocks)** ([网页版直达](https://justmysocks-guide.github.io/justmysocks/))
 - 🎯 **[Clash Verge Rev / Sing-box / 小火箭 AI 精选分流规则包](https://github.com/justmysocks-guide/clash-rules)**
 - 🛒 **[Just My Socks 官方安全直达镜像](https://justmysocks.net/members/aff.php?aff=24082)** *(优惠码: `JMS9272283`)*
 

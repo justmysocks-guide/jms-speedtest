@@ -40,7 +40,7 @@ curl -sSL https://raw.githubusercontent.com/justmysocks-guide/jms-speedtest/main
 
 ## 🔗 Related Ecosystem Repositories
 
-- 📖 **[Just My Socks Complete Guide & Modern Client Tutorials](https://github.com/justmysocks-guide)**
+- 📖 **[Just My Socks Complete Guide & Modern Client Tutorials](https://github.com/justmysocks-guide/justmysocks)** ([Web Version](https://justmysocks-guide.github.io/justmysocks/))
 - 🎯 **[Clash Verge Rev / Sing-box / Shadowrocket AI Routing Rules](https://github.com/justmysocks-guide/clash-rules)**
 
 ---
